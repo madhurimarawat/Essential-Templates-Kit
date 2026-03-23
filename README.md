@@ -32,7 +32,16 @@
 Essential-Templates-Kit/
 │
 ├── Resume_Templates/
-├── Dev-to Posts_Cover_Image/
+├── Dev-to Posts_Cover_Image/                     # Cover images for blog posts
+│       ├── Aquascript 🌊                    # Aquascript series cover images
+│       │   └── Aquascript inside Dev
+│       │       Cover Image 1000×420.pptx 💧 # Specific Aquascript cover image file
+│       ├── Series 📚                        # Series of Localstack cover images
+│       │   └── Series Localstack Dev
+│       │       Cover Image 1000×420.pptx 👩‍💻 # Specific Series cover image file
+│       └── Widescreen 🖥️                    # Widescreen format cover images
+│           └── Widescreen Dev Cover
+│               Image Widescreen.pptx 🖥     # Specific Widescreen cover image file
 ├── Personal_Logo/
 ├── Youtube_Channel_Logo/
 ├── Document_Organization/
@@ -43,6 +52,13 @@ Essential-Templates-Kit/
 * 📄 **Resume Templates** – Includes two formats: a sleek, modern resume for compact professional presentation and a traditional biodata format for detailed personal information.
 
 * 🖼️ **Dev.to Cover Images** – Minimal and clean cover designs optimized for technical blog posts and readability.
+
+  Resources and visuals for my articles on [dev.to](https://dev.to).
+
+  * 🌊 `Aquascript`: Aquascript series cover images including a specific file `Aquascript inside Dev Cover Image 1000×420.pptx`.
+  * 📚 `Series`: Series of Localstack cover images with `Series Localstack Dev Cover Image 1000×420.pptx`.
+  * 🖥️ `Widescreen`: Widescreen format cover images with `Widescreen Dev Cover Image Widescreen.pptx`.
+
 
 * 🎨 **Personal Logo** – Simple and aesthetic logo designs suitable for personal branding and portfolio identity.
 
@@ -87,8 +103,6 @@ Building useful + aesthetic things ✨
 * 📧 Email: [rawatmadhurima4@gmail.com](mailto:rawatmadhurima4@gmail.com)
 
 Open to collaboration, ideas, and creative projects ✨
-
----
 
 <p align="center">
   Made with 💙 and a love for organization
