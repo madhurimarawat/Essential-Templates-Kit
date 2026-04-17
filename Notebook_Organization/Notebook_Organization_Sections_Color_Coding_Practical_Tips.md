@@ -173,3 +173,28 @@ Do **not divide sections equally**. Divide according to your use case.
 3. Daily Log should take the most space, around **45%**. Keep daily tasks and detailed entries here.
 4. Meetings should be around **25%** as most content comes from meetings, especially if you are in HR or management.
 5. Learnings around **10%** should include the most important learnings that are not in other sections. If learning is from a meeting, keep it in the meeting section. If from daily logs, keep it there. If it does not belong anywhere, then keep it here. This should include things like seminars, sessions, or anything you attended or learned.
+
+---
+
+## 🔖 Symbol Legend
+
+This system is especially useful within sections like **Meetings**, where you want to highlight important points without moving them to a separate “Important” section.
+
+Use the following symbols to quickly identify purpose and priority:
+
+- `*` (Asterisk): **Important / Priority Task**  
+- `!` (Exclamation Mark): **Deadline or Critical Idea**  
+- `?` (Question Mark): **Something to Research or Clarify**  
+- `→` (Arrow): **Action Item, Task Delegated, Follow-up, or Feedback**
+
+> [!TIP]
+> Use symbols selectively to highlight only key points for better clarity.
+
+### ✨ Example Usage
+
+**Meeting Notes:**
+
+- `*` Discuss employee management  
+- `!` Deadline: 17 May  
+- `?` Clarify team structure  
+- `→ `Follow up with HR  
