@@ -1,0 +1,64 @@
+├── 01-Personal
+│   ├── 01-Identity
+│   │   ├── 01-Aadhar
+│   │   ├── 02-Pan_Card
+│   │   ├── 03-Birth_Certificate
+│   │   ├── 04-Domicile_Income
+│   │   ├── 05-Eshram_Ration
+│   │   ├── 07-EPIC_Ayushman
+│   │   └── 08-Vaccination
+│   ├── 02-Bank_Account
+│   │   └── 01-Education_Loan
+│   ├── 03-License
+│   ├── 04-Tasks_To_Do
+│   ├── 05-Photos
+│   │   ├── Family
+│   │   ├── Personal
+│   │   ├── Old
+│   │   └── Selfies
+│   ├── 06-Mobile_Receipts
+│   ├── 07-Vehicle
+│   │   ├── Documents
+│   │   ├── Images
+│   │   ├── Insurance
+│   │   ├── Receipts
+│   │   ├── Servicing
+│   │   ├── Subsidy
+│   │   └── Manuals
+│   └── 99-Archive
+├── 02-Education
+│   ├── 01-School
+│   ├── 02-BTech_CSE
+│   │   ├── APAAR_ID
+│   │   ├── Admission
+│   │   ├── Migration
+│   │   ├── No_Dues
+│   │   ├── Receipts
+│   │   ├── Results
+│   │   └── Resume_CV
+│   ├── 03-MA_English
+│   ├── 04-IGNOU
+│   │   ├── Documents
+│   │   └── Official
+│   └── 99-Archive
+├── 03-Family
+│   ├── 01-Aadhar
+│   ├── 02-License
+│   ├── 03-Bills
+│   ├── 04-Disability_Certificate
+│   ├── 05-Home_Details
+│   ├── 06-Voter_Card
+│   ├── 07-Vaccination
+│   ├── 08-Schemes
+│   ├── 09-Reports
+│   └── 99-Archive
+├── 04-GitHub_Projects
+│   ├── Github_Anniversary_Blog
+│   └── 99-Archive
+├── 05-Recovery_And_Device_Info
+│   ├── 01-Recovery_Codes
+│   ├── 02-Device_Details
+│   └── 99-Archive
+├── 06-Formatting_Labels
+├── 07-Social_Media
+└── 08-Personal_Cards
