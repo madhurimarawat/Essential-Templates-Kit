@@ -37,7 +37,8 @@ It is especially useful for:
 
 1. Save your folder structure in a text file (e.g., structure.txt)
 2. Run:
-   python 📂_AutoFolderArchitect.py structure.txt
+   python 📂_Automatic_Folder_Creation_From_Directory_Tree.py
+   then give input file name: Directory_Structure.txt
 
 3. Output will be created in the current directory
 
