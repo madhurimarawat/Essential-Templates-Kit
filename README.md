@@ -103,7 +103,3 @@ Building useful + aesthetic things ✨
 * 📧 Email: [rawatmadhurima4@gmail.com](mailto:rawatmadhurima4@gmail.com)
 
 Open to collaboration, ideas, and creative projects ✨
-
-<p align="center">
-  Made with 💙 and a love for organization
-</p>
